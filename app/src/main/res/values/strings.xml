@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">買い物リスト</string>
+    <string name="hint">" "</string>
+    <string name="btn_name">追加</string>
+</resources>
